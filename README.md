@@ -1,4 +1,4 @@
-mobilapps
+myapp
 =========
 
-Mobile Applications
+Mobile App Example
